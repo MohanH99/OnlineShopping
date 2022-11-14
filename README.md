@@ -1,2 +1,2 @@
 # OnlineShopping
-Online Shopping System in Java using JSPs &amp; Servlets
+Online Shopping System in Java using JSPs, Servlets & Html.
