@@ -1,7 +1,6 @@
 <%-- 
     Document   : Logout
-    Created on : Nov 26, 2017, 12:16:07 PM
-    Author     : Student
+    Author     : Mohan
 --%>
 
 <%@page import="java.util.Iterator"%>
