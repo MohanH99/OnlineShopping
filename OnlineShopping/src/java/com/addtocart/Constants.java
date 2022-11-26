@@ -7,7 +7,7 @@ package com.addtocart;
 
 /**
  *
- * @author Student
+ * @author Mohan
  */
 class Constants {
     
