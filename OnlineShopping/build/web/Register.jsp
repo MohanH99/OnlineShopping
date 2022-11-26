@@ -1,7 +1,6 @@
 <%-- 
     Document   : Register
-    Created on : Nov 26, 2017, 11:39:42 AM
-    Author     : Student
+    Author     : Mohan
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
