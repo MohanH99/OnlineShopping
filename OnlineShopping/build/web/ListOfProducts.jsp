@@ -1,7 +1,6 @@
 <%-- 
     Document   : ListOfProducts
-    Created on : Nov 26, 2017, 11:59:28 AM
-    Author     : Student
+    Author     : Mohan
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
