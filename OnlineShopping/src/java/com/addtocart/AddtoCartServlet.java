@@ -17,7 +17,7 @@ import javax.servlet.http.HttpSession;
 
 /**
  *
- * @author Student
+ * @author Mohan
  */
 public class AddtoCartServlet extends HttpServlet {
 
