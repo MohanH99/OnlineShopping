@@ -1,7 +1,6 @@
 <%-- 
     Document   : Exit
-    Created on : Nov 26, 2017, 12:43:03 PM
-    Author     : Student
+    Author     : Mohan
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
